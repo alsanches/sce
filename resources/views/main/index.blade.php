@@ -7,7 +7,7 @@
         <div class="row">
             <div class="col-lg-12">
                 <h1>Sistema de Controle de Equipamentos</h1>
-                <p>Nesta área ficam os formulários  Bueno</p>
+                <p>Nesta área ficam os formulários Alexandre</p>
             </div>
         </div>
     </div>
